@@ -15,7 +15,7 @@ const countdown = (num, callback) => {
 
   const displayHappyNewYear = () => {
     setTimeout(() => {
-      document.getElementById('countdown').innerText = 'Happy New Year!';
+      document.getElementById('countdown').innerText = ' Advance Happy New Year sir!';
     }, 1000);
   };
   
